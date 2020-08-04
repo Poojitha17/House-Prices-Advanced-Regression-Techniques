@@ -89,3 +89,4 @@ MoSold: Month Sold
 YrSold: Year Sold
 SaleType: Type of sale
 SaleCondition: Condition of sale
+
